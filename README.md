@@ -1,6 +1,8 @@
 # Sistem Perpus Universitas Ngudi Waluyo
 <h4>Nama Project ini adalah : Perpus.UNW</h4>
-
+</br>
+<img src="assets/logoNav.png" alt="">
+</br>
 <p>website ini dibuat menggunakan framework bootstrap, javascript, php dan database mysql.</p>
 
 Fitur fitur yang terdapat didalam aplikasi ini : 
